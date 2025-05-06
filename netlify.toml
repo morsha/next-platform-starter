@@ -1,3 +1,9 @@
 [build]
   publish = ".next"
   command = "npm run build"
+
+[[redirects]]
+  from = "/academy/*"
+  to = "https://academy.qubic.app/:splat"
+  status = 200
+  force = true
