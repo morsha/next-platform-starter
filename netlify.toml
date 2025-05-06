@@ -4,6 +4,6 @@
 
 [[redirects]]
   from = "/academy/*"
-  to = "https://academy.qubic.app/:splat"
+  to = "https://morsha710145391.wpcomstaging.com/:splat"
   status = 200
   force = true
